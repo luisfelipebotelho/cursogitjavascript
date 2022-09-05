@@ -11,11 +11,13 @@ https://code.visualstudio.com/download
 
 '''
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server
+
 '''
 ou Live Server
 
 '''
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
 '''
 >Para iniciar o projeto use:
 
@@ -24,6 +26,9 @@ https://github.com/luisfelipebotelho/cursogitjavascript.git
 
 '''
 5.Inicialização:Como iniciar: git clone,vs code,extensões
+
 6.Implementação futura
+
 7.Colaboradores
+
 8.Status
