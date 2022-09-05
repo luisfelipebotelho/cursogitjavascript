@@ -1,4 +1,4 @@
-<h1>VoeAirlines - FrontEnd</h1>
+<h1>VoeAirlines - FrontEnd</h1><br>
 >Uma empresa de aeronaves
 >Diversas funcionalidades, desde cadastro de aeronaves até geração de relatórios
 >Recomendável instalação do Vs Code
@@ -6,14 +6,17 @@
 https://code.visualstudio.com/download
 
 '''
->Aconselhável a utilização da extensão
-
+>Extensão Live Preview
 '''
-Live Preview
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server
 '''
-ou
+ou Live Server
 '''
-Live Server
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+'''
+>Para iniciar o projeto use:
+'''
+https://github.com/luisfelipebotelho/cursogitjavascript.git
 '''
 5.Inicialização:Como iniciar: git clone,vs code,extensões
 6.Implementação futura
