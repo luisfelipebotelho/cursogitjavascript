@@ -1,7 +1,20 @@
-1.Título:VoeAirlines - FrontEnd
-2.Descrição:Uma empresa de aeronaves
-3.Funcionalidades:Cadastro de Aeronaves
-4.Tecnologias:html,css,javascript,node,react
+<h1>VoeAirlines - FrontEnd</h1>
+>Uma empresa de aeronaves
+>Diversas funcionalidades, desde cadastro de aeronaves até geração de relatórios
+>Recomendável instalação do Vs Code
+'''
+https://code.visualstudio.com/download
+
+'''
+>Aconselhável a utilização da extensão
+
+'''
+Live Preview
+'''
+ou
+'''
+Live Server
+'''
 5.Inicialização:Como iniciar: git clone,vs code,extensões
 6.Implementação futura
 7.Colaboradores
