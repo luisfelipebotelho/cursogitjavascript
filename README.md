@@ -1,4 +1,5 @@
 <h1>VoeAirlines - FrontEnd</h1>
+
 >>Uma empresa de aeronaves
 
 >>Diversas funcionalidades, desde cadastro de aeronaves até geração de relatórios
@@ -15,7 +16,7 @@ https://code.visualstudio.com/download
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server
 '''
 
-ou Live Server
+>ou Live Server
 
 '''
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
